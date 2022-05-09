@@ -14,10 +14,10 @@ Plataforma utilizada: IntelliJ
 Linguagem: Java
 Como executar o programa, passo a passo: 
  1º Baixar o Intellij.
- 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito "
- 3º Executar o Intellij
- 4º Abrir o arquivo " seleciona open e depois a localização do arquivo " - aguardar um pouco
- 5º Depois executar " shift + f10 "
+ 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito ".
+ 3º Executar o Intellij.
+ 4º Abrir o arquivo " seleciona open e depois a localização do arquivo " - aguardar um pouco.
+ 5º Depois executar " shift + f10 ".
 
 
 - Segundo Desafio " Warren2 "
@@ -33,16 +33,16 @@ tempoChegada = [-2, -1, 0, 1, 2]
 Saída de dados:
 Aula normal.
 Explicação:
-Os três primeiros alunos chegaram no horário. Os dois últimos estavam atrasados. O limite é de três alunos, portanto a aula não será cancelada
+Os três primeiros alunos chegaram no horário. Os dois últimos estavam atrasados. O limite é de três alunos, portanto a aula não será cancelada.
 
 Plataforma utilizada: Visual Studio Code
 Linguagem: Javascript
 Como executar o programa, passo a passo:
  1º Baixar o Visual Studio Code.
- 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito "
- 3º Executar o Visual Studio Code
- 4º Abrir o arquivo " ctrl + o " 
- 5º Depois executar " ctrl + alt + n "
+ 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito ".
+ 3º Executar o Visual Studio Code.
+ 4º Abrir o arquivo " ctrl + o ". 
+ 5º Depois executar " ctrl + alt + n ".
 
 
 - Terceiro Desafio " Warren3 "
@@ -63,7 +63,7 @@ Plataforma utilizada: Visualg
 Algoritmo
 Como executar o programa, passo a passo:
  1º Baixar o Visualg.
- 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito "
+ 2º Na localização dos programas no git: ir em código e depois baixar zip. Não esqueça de descompactar. " Caso não tenha feito ".
  3º Após descompactar, executar o aplicativo visualg que está na pasta.
- 4º Abrir o arquivo " ctrl + a " 
- 5º Depois executar " f9 "
+ 4º Abrir o arquivo " ctrl + a ". 
+ 5º Depois executar " f9 ".
